@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html xmlns:wicket="http://wicket.apache.org" xmlns:margin-top="http://www.w3.org/1999/xhtml">
+<head>
+	<meta charset="utf-8" />
+	<title>Apache Wicket Quickstart</title>
+	<link href='https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:regular,bold' rel='stylesheet' type='text/css' />
+	<link rel="stylesheet" href="style.css" type="text/css" media="screen" title="Stylesheet" />
+</head>
+<body>
+
+<br>
+<div id = "passiveArea"><textarea style="width: 80%; margin-top: 5em; margin-left: 10%; height: 90%" cols="100" rows="50" wicket:id="passiveArea"></textarea></div>
+<div id="activeArea" style="visibility: hidden">
+	<textarea style="width: 80%; margin-top: 5em; margin-left: 10%; height: 90%" cols="100" rows="50" wicket:id="activeArea"></textarea>
+	<button wicket:id = "saver">Save?</button>
+</div>
+
+<div><button wicket:id = "enMirroring"></button></div>
+
+<script>
+	function f() {
+
+		if (document.getElementById("activeArea").getAttribute("style").indexOf("visible")>-1)
+		{
+			document.getElementById("activeArea").setAttribute("style", "visibility: hidden");
+		}
+		else
+		{
+			document.getElementById("activeArea").setAttribute("style", "visibility: visible");
+		}
+	}
+</script>
+<div><button id = "Hider" onclick="f()">Switch to writer mode?</button></div>
+
+</body>
+</html>
+
