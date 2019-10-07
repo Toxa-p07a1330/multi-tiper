@@ -17,7 +17,7 @@ public class WicketApplication extends WebApplication
 	@Override
 	public Class<? extends WebPage> getHomePage()
 	{
-		return ru.bmstu.iu3.HomePage.class;
+		return writer.class;
 	}
 
 	/**

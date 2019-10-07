@@ -3,15 +3,16 @@ import org.apache.wicket.Component;
 import org.apache.wicket.ajax.AjaxEventBehavior;
 import org.apache.wicket.ajax.AjaxRequestTarget;
 import org.apache.wicket.ajax.markup.html.AjaxLink;
+import org.apache.wicket.ajax.markup.html.form.AjaxButton;
 import org.apache.wicket.event.IEvent;
 import org.apache.wicket.markup.ComponentTag;
 import org.apache.wicket.markup.html.basic.Label;
 import org.apache.wicket.markup.html.WebPage;
-import org.apache.wicket.markup.html.form.Button;
-import org.apache.wicket.markup.html.form.CheckBox;
-import org.apache.wicket.markup.html.form.TextArea;
+import org.apache.wicket.markup.html.form.*;
 import org.apache.wicket.markup.html.link.Link;
+import org.apache.wicket.markup.html.link.StatelessLink;
 import org.apache.wicket.model.Model;
+import org.apache.wicket.request.mapper.parameter.PageParameters;
 
 import java.io.File;
 import java.io.FileOutputStream;
@@ -21,19 +22,20 @@ import java.util.Date;
 import java.util.EventListener;
 
 
-public class HomePage extends WebPage {
-  public HomePage()
-  {
-        TextArea textArea = new TextArea("textArea");
-        add(textArea);
-        Link link = new Link<Void>("link") {
+public class reader extends WebPage {
+    public  reader() {
+        StatelessForm form = new StatelessForm("form", Model.of(""));
+        TextArea textField = new TextArea("text", Model.of(writer.extracter.getStr()));
+
+        form.add(textField);
+        add(form);
+        add(new StatelessLink<Void>("switchMode"){
             @Override
             public void onClick() {
-                System.out.println(textArea.getInput());
+                //we redirect browser to another page.
+                setResponsePage(writer.class);
             }
-        };
-        add(link);
-
-  }
+        });
+    }
 }
 

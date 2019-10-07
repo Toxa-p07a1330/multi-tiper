@@ -7,26 +7,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eda0fae6-9414-4359-a633-8716661c4150" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Marchuk_practics_war2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/bmstu/iu3/reader.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/bmstu/iu3/reader.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/bmstu/iu3/HomePage.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/bmstu/iu3/HomePage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/bmstu/iu3/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/bmstu/iu3/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Marchuk_practics-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/Marchuk_practics-1.0-SNAPSHOT.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Marchuk_practics-1.0-SNAPSHOT/WEB-INF/classes/ru/bmstu/iu3/HomePage$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Marchuk_practics-1.0-SNAPSHOT/WEB-INF/classes/ru/bmstu/iu3/HomePage$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Marchuk_practics-1.0-SNAPSHOT/WEB-INF/classes/ru/bmstu/iu3/HomePage$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Marchuk_practics-1.0-SNAPSHOT/WEB-INF/classes/ru/bmstu/iu3/HomePage$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Marchuk_practics-1.0-SNAPSHOT/WEB-INF/classes/ru/bmstu/iu3/HomePage$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Marchuk_practics-1.0-SNAPSHOT/WEB-INF/classes/ru/bmstu/iu3/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Marchuk_practics-1.0-SNAPSHOT/WEB-INF/classes/ru/bmstu/iu3/HomePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Marchuk_practics-1.0-SNAPSHOT/WEB-INF/classes/ru/bmstu/iu3/HomePage.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/Marchuk_practics-1.0-SNAPSHOT/WEB-INF/classes/ru/bmstu/iu3/HomePage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Marchuk_practics-1.0-SNAPSHOT/WEB-INF/classes/ru/bmstu/iu3/Saver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ru/bmstu/iu3/HomePage$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/bmstu/iu3/HomePage$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ru/bmstu/iu3/HomePage$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/bmstu/iu3/HomePage$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ru/bmstu/iu3/HomePage$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ru/bmstu/iu3/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/bmstu/iu3/HomePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ru/bmstu/iu3/HomePage.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/bmstu/iu3/HomePage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ru/bmstu/iu3/Saver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/bmstu/iu3/HomePage.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/bmstu/iu3/writer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/bmstu/iu3/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/bmstu/iu3/writer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/bmstu/iu3/WicketApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/bmstu/iu3/WicketApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/bmstu/iu3/TestHomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/bmstu/iu3/TestHomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Marchuk_practics-1.0-SNAPSHOT.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Marchuk_practics-1.0-SNAPSHOT/WEB-INF/classes/ru/bmstu/iu3/HomePage$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Marchuk_practics-1.0-SNAPSHOT/WEB-INF/classes/ru/bmstu/iu3/HomePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Marchuk_practics-1.0-SNAPSHOT/WEB-INF/classes/ru/bmstu/iu3/HomePage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Marchuk_practics-1.0-SNAPSHOT/WEB-INF/classes/ru/bmstu/iu3/WicketApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Marchuk_practics-1.0-SNAPSHOT/WEB-INF/classes/ru/bmstu/iu3/WicketApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/bmstu/iu3/HomePage$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/bmstu/iu3/HomePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/bmstu/iu3/HomePage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/bmstu/iu3/WicketApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/bmstu/iu3/WicketApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ru/bmstu/iu3/TestHomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ru/bmstu/iu3/TestHomePage.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +36,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -54,6 +53,7 @@
   <component name="ProjectId" id="1Rc4xjmcCGvh5PfPzz92NTYygOy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -236,7 +236,17 @@
       <workItem from="1570361254748" duration="3020000" />
       <workItem from="1570388595927" duration="5207000" />
       <workItem from="1570395693376" duration="1396000" />
+      <workItem from="1570418086984" duration="483000" />
+      <workItem from="1570474851931" duration="8706000" />
     </task>
+    <task id="LOCAL-00001" summary="Restart developing">
+      <created>1570418291239</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1570418291239</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -254,5 +264,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Restart developing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Restart developing" />
   </component>
 </project>
