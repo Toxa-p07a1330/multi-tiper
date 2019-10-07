@@ -6,7 +6,28 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eda0fae6-9414-4359-a633-8716661c4150" name="Default Changelist" comment="" />
+    <list default="true" id="eda0fae6-9414-4359-a633-8716661c4150" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Marchuk_practics_war2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/bmstu/iu3/HomePage.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/bmstu/iu3/HomePage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/bmstu/iu3/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/bmstu/iu3/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Marchuk_practics-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/Marchuk_practics-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Marchuk_practics-1.0-SNAPSHOT/WEB-INF/classes/ru/bmstu/iu3/HomePage$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Marchuk_practics-1.0-SNAPSHOT/WEB-INF/classes/ru/bmstu/iu3/HomePage$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Marchuk_practics-1.0-SNAPSHOT/WEB-INF/classes/ru/bmstu/iu3/HomePage$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Marchuk_practics-1.0-SNAPSHOT/WEB-INF/classes/ru/bmstu/iu3/HomePage$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Marchuk_practics-1.0-SNAPSHOT/WEB-INF/classes/ru/bmstu/iu3/HomePage$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Marchuk_practics-1.0-SNAPSHOT/WEB-INF/classes/ru/bmstu/iu3/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Marchuk_practics-1.0-SNAPSHOT/WEB-INF/classes/ru/bmstu/iu3/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Marchuk_practics-1.0-SNAPSHOT/WEB-INF/classes/ru/bmstu/iu3/HomePage.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/Marchuk_practics-1.0-SNAPSHOT/WEB-INF/classes/ru/bmstu/iu3/HomePage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Marchuk_practics-1.0-SNAPSHOT/WEB-INF/classes/ru/bmstu/iu3/Saver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/bmstu/iu3/HomePage$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/bmstu/iu3/HomePage$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/bmstu/iu3/HomePage$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/bmstu/iu3/HomePage$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/bmstu/iu3/HomePage$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/bmstu/iu3/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/bmstu/iu3/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/bmstu/iu3/HomePage.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/bmstu/iu3/HomePage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/bmstu/iu3/Saver.class" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +41,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -28,10 +52,15 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectId" id="1Rc4xjmcCGvh5PfPzz92NTYygOy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -45,7 +74,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Tomcat Server.Local">
     <configuration name="Local" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.26" ALTERNATIVE_JRE_ENABLED="false">
       <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/Marchuk_practics_war/" />
       <option name="UPDATING_POLICY" value="restart-server" />
@@ -119,6 +148,70 @@
         </option>
       </method>
     </configuration>
+    <configuration name="Tomcat 9.0.26" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Remote" APPLICATION_SERVER_NAME="Tomcat 9.0.26" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="HOST" value="95.163.208.102" />
+      <option name="LOCAL" value="false" />
+      <deployment />
+      <server-settings>
+        <data>
+          <option name="targets">
+            <list>
+              <WatchedTargetModelImpl>
+                <option name="name" value="CONTEXT_XML" />
+                <option name="transportStagingTarget">
+                  <TransportTarget>
+                    <option name="id" value="1acdd5a4-b22a-4ad9-ad69-252061d0b733" />
+                    <id>1acdd5a4-b22a-4ad9-ad69-252061d0b733</id>
+                  </TransportTarget>
+                </option>
+                <option name="watchedLocalPath" value="" />
+                <watched-path />
+                <name>CONTEXT_XML</name>
+                <transport-target>
+                  <TransportTarget>
+                    <option name="id" value="1acdd5a4-b22a-4ad9-ad69-252061d0b733" />
+                    <id>1acdd5a4-b22a-4ad9-ad69-252061d0b733</id>
+                  </TransportTarget>
+                </transport-target>
+              </WatchedTargetModelImpl>
+              <StagingTargetModelImpl>
+                <option name="name" value="STAGING" />
+                <option name="stagingRemotePath" value="" />
+                <option name="transportStagingTarget">
+                  <TransportTarget>
+                    <option name="id" value="cffaedb3-d997-4dfe-8061-edcf68e50553" />
+                    <id>cffaedb3-d997-4dfe-8061-edcf68e50553</id>
+                  </TransportTarget>
+                </option>
+                <staging-path />
+                <name>STAGING</name>
+                <transport-target>
+                  <TransportTarget>
+                    <option name="id" value="cffaedb3-d997-4dfe-8061-edcf68e50553" />
+                    <id>cffaedb3-d997-4dfe-8061-edcf68e50553</id>
+                  </TransportTarget>
+                </transport-target>
+              </StagingTargetModelImpl>
+            </list>
+          </option>
+          <option name="transportHostId" value="757faa55-7bc0-417c-8b63-16d9ab25a35b" />
+          <host-id>757faa55-7bc0-417c-8b63-16d9ab25a35b</host-id>
+        </data>
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="TOMCAT_LOCALHOST_LOG_ID" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="49336" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Tomcat Server.Local" />
+      <item itemvalue="Tomcat Server.Tomcat 9.0.26" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -136,11 +229,30 @@
       <workItem from="1569965477880" duration="1963000" />
       <workItem from="1569967518066" duration="28000" />
       <workItem from="1570010384466" duration="1110000" />
-      <workItem from="1570117643545" duration="10608000" />
+      <workItem from="1570117643545" duration="10890000" />
+      <workItem from="1570176081226" duration="1735000" />
+      <workItem from="1570177841652" duration="1995000" />
+      <workItem from="1570297203822" duration="710000" />
+      <workItem from="1570361254748" duration="3020000" />
+      <workItem from="1570388595927" duration="5207000" />
+      <workItem from="1570395693376" duration="1396000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

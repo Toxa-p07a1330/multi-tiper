@@ -8,30 +8,8 @@
 </head>
 <body>
 
-<br>
-<div id = "passiveArea"><textarea style="width: 80%; margin-top: 5em; margin-left: 10%; height: 90%" cols="100" rows="50" wicket:id="passiveArea"></textarea></div>
-<div id="activeArea" style="visibility: hidden">
-	<textarea style="width: 80%; margin-top: 5em; margin-left: 10%; height: 90%" cols="100" rows="50" wicket:id="activeArea"></textarea>
-	<button wicket:id = "saver">Save?</button>
-</div>
-
-<div><button wicket:id = "enMirroring"></button></div>
-
-<script>
-	function f() {
-
-		if (document.getElementById("activeArea").getAttribute("style").indexOf("visible")>-1)
-		{
-			document.getElementById("activeArea").setAttribute("style", "visibility: hidden");
-		}
-		else
-		{
-			document.getElementById("activeArea").setAttribute("style", "visibility: visible");
-		}
-	}
-</script>
-<div><button id = "Hider" onclick="f()">Switch to writer mode?</button></div>
-
+<div wicket:id="textArea"></div>
+<div wicket:id="link">Click</div>
 </body>
 </html>
 

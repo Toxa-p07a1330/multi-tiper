@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Marchuk_practics:war2">
+    <output-path>$PROJECT_DIR$/classes/artifacts/Marchuk_practics_war2</output-path>
+    <root id="archive" name="Marchuk_practics_war.war">
+      <element id="artifact" artifact-name="Marchuk_practics:war exploded" />
+    </root>
+  </artifact>
+</component>
